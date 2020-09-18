@@ -1,16 +1,25 @@
 PODS:
   - Alamofire (5.0.5)
+  - AlamofireImage (4.0.3):
+    - Alamofire (< 6.0.0, >= 5.0.2)
+  - PageMenu (2.0.0)
 
 DEPENDENCIES:
   - Alamofire
+  - AlamofireImage
+  - PageMenu
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - AlamofireImage
+    - PageMenu
 
 SPEC CHECKSUMS:
   Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  AlamofireImage: 3d1a2010519e58675318735580eb856e88840ff7
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
 
-PODFILE CHECKSUM: add8ce3a92ca8e78bc334f08c42cbcb59022a3f2
+PODFILE CHECKSUM: b8ab984d717685e6b6425181ed86fccf8f363209
 
 COCOAPODS: 1.8.4

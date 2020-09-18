@@ -6,5 +6,7 @@ target 'TestProject' do
   use_frameworks!
 
  pod 'Alamofire'
+pod 'PageMenu'
+pod 'AlamofireImage'
 
 end
